@@ -1,5 +1,9 @@
+hai gays :3, its me from 2023. i have improved better as a person and i used the r slur in this readme. even though i am autistic myself and i have improved as a person. i can't take back my actions so im sorry for all the disabled & neurodivergents that were offended for what i said.
+im sorry,
+ellie >.<
+
 # Deperacted
-Don't know if this shit works + it's retarded asf to steal PET SIMULATOR X BANKS LMAO
+Don't know if this shit works + it's [r slur] asf to steal PET SIMULATOR X BANKS LMAO
 <br>
 Pet's don't go for shit and this was a test since I have seen bank stealers
 <br>
